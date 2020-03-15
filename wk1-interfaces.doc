@@ -1,0 +1,6 @@
+4. Interfaces are a pattern of methods that are able to do something. It is set up to work a certain way, but cannot work without proper implementation. 
+Implementation is what makes interfaces work how we expect them to. It is the behind-the-scenes of the interfaces. 
+
+5. I would design an interface that allowed for each of the implemenetations to work together. While all the available ways to store data do so differently, my interface would use an implemenetation that 
+provided proper integration of these. In this way, it would build off what came before. Therefore, it would allow for storage from usb/hard drive/ etc., but the primary way of storage would be through the current method 
+of the cloud. In this, nothing gets left behind in the implementation and users can use whatever means necessary to store their data. 
